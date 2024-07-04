@@ -1,21 +1,3 @@
-# STEEMBLR
-
-[https://steemblr.com](https://steemblr.com)
-
-Open source social media app based on steem blockchain.
-Read more [here](https://steemit.com/utopian-io/@snwolak/introducing-steemblr-a-blockchain-alternative-for-tumblr)
-![website.png](https://firebasestorage.googleapis.com/v0/b/steemblr.appspot.com/o/development%2Fproduct_image_steemblr_fdc1b80f7639b8d47fa941cea919c946683b3d292723ea8ddddd9f2a6adbd25a_opti.jpg?alt=media&token=2fb1525f-b6c7-400a-915a-959c5363429b)
-
-### Setup
-
-```
-first setup and run api from this repo https://github.com/snwolak/steemblr_api
-git clone https://github.com/snwolak/steemblr.git
-cd steemblr
-create .env files
-yarn
-yarn start
-```
 
 #### Env files
 
@@ -43,11 +25,3 @@ REACT_APP_FIREBASE_FOLLOW =
 REACT_APP_FIREBASE_UPVOTE_STEEM_POST =
 REACT_APP_FIREBASE_SAVE_USER_SETTINGS =
 ```
-
-### Contribution
-
-If you want to contribute get in touch on my discord channel [https://discord.gg/hHmZgk6](https://discord.gg/hHmZgk6).
-
-### License
-
-MIT License Copyright (c) 2018-present, Szymon Wolak
